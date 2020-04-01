@@ -13,7 +13,7 @@ convert .pptx file to .txt file using python.
 注：适用于 .pptx类型，.ppt格式需要转换为.pptx格式。
 # Usage
 
-将想要转换的 .pptx 文件（支持多个文件同时执行）放入 clone 下来的文件夹中，打开终端，输入 `python python ppt-to-txt.py`,即可得到txt文件
+将想要转换的 .pptx 文件（支持多个文件同时执行）放入 clone 下来的文件夹中，打开终端，输入 `python ppt-to-txt.py`,即可得到txt文件
 
 # Example
 
